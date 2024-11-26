@@ -1,0 +1,36 @@
+{
+  "learnings":[{
+   "title":"Name",
+    "desp":"desp",
+    "vid":"Video_link"
+  }],
+  "puzzles":[
+    {
+   "title":"Name",
+    "desp":"desp",
+    "vid":"Video_link"
+  }
+  ],
+  "news":[
+    {
+   "title":"Name",
+    "desp":"desp",
+    "vid":"Video_link"
+  }
+  ],
+  "gambit":[{
+   "title":"Name",
+    "desp":"desp",
+    "vid":"Video_link"
+  }],
+  "contact":[{
+   "title":"Name",
+    "desp":"desp",
+    "vid":"Video_link"
+  }],
+  "about":[{
+   "title":"Name",
+    "desp":"desp",
+    "vid":"Video_link"
+  }]
+}
