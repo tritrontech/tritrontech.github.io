@@ -1,42 +1,57 @@
 {
-  "learnings":[{
-   "title":"Name",
-    "desp":"desp",
-    "vid":"Video_link_1",
-    "date":"DATE_format"
-  }],
+  "learnings":[{"title": "Lesson 1", "desp": "Openings,Middle and End Game tips and tutorials", "vid": "rOIPJXtdeGo","date":""},
+    {"title": "Lesson 2", "desp": "Openings,Middle and End Game tips and tutorials", "vid": "qbC8xvu6Pd4","date":""},
+    {"title": "Lesson 3", "desp": "Openings,Middle and End Game tips and tutorials", "vid": "Mw3KHW-j9gc","date":""},
+    {"title": "Lesson 4", "desp": "Openings,Middle and End Game tips and tutorials", "vid": "6BnhC0syPE4","date":""},
+    {"title": "Lesson 5", "desp": "Openings,Middle and End Game tips and tutorials", "vid": "mnZbwvWld5s","date":""},
+    {"title": "Lesson 6", "desp": "Openings,Middle and End Game tips and tutorials", "vid": "u8lyueFdZiI","date":""},
+    {"title": "Lesson 7", "desp": "Openings,Middle and End Game tips and tutorials", "vid": "rOIPJXtdeGo","date":""},
+    {"title": "Lesson 8", "desp": "Openings,Middle and End Game tips and tutorials", "vid": "mHhzeZrf32g","date":""}
+  ],
   "puzzles":[
     {
-   "title":"Name",
-    "desp":"desp",
-    "vid":"Video_link",
-    "date":"DATE_format"
-  }
+      "title": "Puzzles ",
+      "desp": "learn by solving the puzzles.",
+      "vid": "njbqhfG5vJ0",
+      "date":""
+    }
   ],
   "news":[
-    {
-   "title":"Name",
-    "desp":"desp",
-    "vid":"Video_link",
-    "date":"DATE_format"
-  }
+    {"title": "Singapore", 
+      "desp": "We are at Singapore International Open and watching FIDE World Championship", 
+      "date": "in person from Nov 24- December 6th",
+      "vid":""},
+    {"title": "Las Vegas", 
+      "desp": "we are at 34th National Open USA to be played at Horseshoe Casino",
+      "date": "Las Vegas from Dec 26-30th",
+      "vid":""},
+    {"title": "Reykjavik",
+      "desp": "we are at Reykjavik Open 2025 ",
+      "date": "April 9th to 16th",
+      "vid":""},
+    {"title": "Susan Polgar and Sridhar", 
+      "desp": "Talks about importance of parents involvement for kids to become a grand master at Susuan Polgar National open held at Hilton Bellevue",
+      "date": "",
+      "vid":"https://tritrontech.github.io/susan.jpeg"}
   ],
-  "gambit":[{
-   "title":"Name",
-    "desp":"desp",
-    "vid":"Video_link",
-  "date":"DATE_format"
-  }],
+  "gambit":[
+    {
+      "title": "Gambit Channel",
+      "desp": "Learn the Gambits",
+      "vid": "g88yf2svE2Q",
+      "date":""
+    }
+   ],
   "contact":[{
-   "title":"Name",
-    "desp":"desp",
-    "vid":"Video_link",
-    "date":"DATE_format"
+   "title":"Contact Us",
+    "desp":"contact form -- google",
+    "vid":"https://forms.gle/qaxpo8DrxDQmKjdy5",
+    "date":"26-Nov-2024"
   }],
   "about":[{
-   "title":"Name",
-    "desp":"desp",
-    "vid":"Video_link",
-    "date":"DATE_format"
+   "title":"About Sridhar Seshadri",
+    "desp":"Sridhar Seshadri is the Founder and President of Sri Chess Academy.He is a three times Washington State Champion for I Love Chess Too Tournament held in Spokane and Tacoma in 2015, 2016, and 2017. He was also a 3rd Larry Evans Western State Champion for 1800 rating category held at Nevada in 2014. He has several accolades of drawing the Simul games, most recently in october 2022 with GM Enrico Savillano at the 39th western state championship Reno, FM Michael Lee, who is a former Washington State Champion rated FIDE 2355,and GM Wesley So FIDE 2760.",
+    "vid":"https://srichessacademy.com/images/assets/ceo1.png",
+    "date":"26-Nov-2024"
   }]
 }
