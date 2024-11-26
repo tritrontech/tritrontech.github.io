@@ -2,35 +2,41 @@
   "learnings":[{
    "title":"Name",
     "desp":"desp",
-    "vid":"Video_link_1"
+    "vid":"Video_link_1",
+    "date":"DATE_format"
   }],
   "puzzles":[
     {
    "title":"Name",
     "desp":"desp",
-    "vid":"Video_link"
+    "vid":"Video_link",
+    "date":"DATE_format"
   }
   ],
   "news":[
     {
    "title":"Name",
     "desp":"desp",
-    "vid":"Video_link"
+    "vid":"Video_link",
+    "date":"DATE_format"
   }
   ],
   "gambit":[{
    "title":"Name",
     "desp":"desp",
-    "vid":"Video_link"
+    "vid":"Video_link",
+  "date":"DATE_format"
   }],
   "contact":[{
    "title":"Name",
     "desp":"desp",
-    "vid":"Video_link"
+    "vid":"Video_link",
+    "date":"DATE_format"
   }],
   "about":[{
    "title":"Name",
     "desp":"desp",
-    "vid":"Video_link"
+    "vid":"Video_link",
+    "date":"DATE_format"
   }]
 }
