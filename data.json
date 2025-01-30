@@ -14,6 +14,9 @@
     {"title": "Lesson 7", "desp": "Openings,Middle and End Game tips and tutorials", "vid": "rOIPJXtdeGo","date":""},
     {"title": "Lesson 8", "desp": "Openings,Middle and End Game tips and tutorials", "vid": "mHhzeZrf32g","date":""}
   ],
+  "gm_learnings":[
+    {"title": "GM Session-1 Part -1 ", "desp": "Part -1 ", "vid": "Aqi6O3yWvoc","date":""}
+  ],
   "puzzles":[
     {
       "title": "Puzzles ",
@@ -59,5 +62,11 @@
     "desp":"Sridhar Seshadri is the Founder and President of Sri Chess Academy.He is a three times Washington State Champion for I Love Chess Too Tournament held in Spokane and Tacoma in 2015, 2016, and 2017. He was also a 3rd Larry Evans Western State Champion for 1800 rating category held at Nevada in 2014. He has several accolades of drawing the Simul games, most recently in october 2022 with GM Enrico Savillano at the 39th western state championship Reno, FM Michael Lee, who is a former Washington State Champion rated FIDE 2355,and GM Wesley So FIDE 2760.",
     "vid":"https://srichessacademy.com/images/assets/ceo1.png",
     "date":"26-Nov-2024"
-  }]
+  }],
+  "feedback":[{
+   "title":"Feedback",
+    "desp":"feedback form -- google",
+    "vid":"https://forms.gle/JqqJv549w31ciAFQA",
+    "date":"26-Nov-2024"
+  }],
 }
